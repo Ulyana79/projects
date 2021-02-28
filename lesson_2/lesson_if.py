@@ -1,7 +1,7 @@
 
 
 age=int(input("Введите Ваш возраст"))
-type_of_activity = age
+#type_of_activity = age
 def type_of_activity(age):
     if  age <= 6:
         return "Вы ходите в детский сад"
